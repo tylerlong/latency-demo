@@ -4,7 +4,7 @@ Design and implement a class that takes measurement of latency and reports P95.
 
 
 ```ts
-addLetency(num: number)
+addLatency(num: number)
 getP95Latency(): number
 ```
 

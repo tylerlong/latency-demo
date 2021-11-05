@@ -11,7 +11,8 @@ getP95Latency(): number
 
 ## What is P95?
 
-Ref: https://findanyanswer.com/what-does-p95-mean-in-statistics
+- https://stackoverflow.com/questions/12808934/what-is-p99-latency
+- https://findanyanswer.com/what-does-p95-mean-in-statistics
 
 
 ## How to run the demo?

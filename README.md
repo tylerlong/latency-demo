@@ -12,3 +12,19 @@ getP95Latency(): number
 ## What is P95?
 
 Ref: https://findanyanswer.com/what-does-p95-mean-in-statistics
+
+
+## How to run the demo?
+
+```
+yarn install
+yarn test
+```
+
+You should see something like the following:
+
+```
+P95 is xxx.
+```
+
+where xxx is a float number.
